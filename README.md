@@ -20,5 +20,5 @@ Black_Scholes.ipynb
 ```
 To run the robust risk-averse newsvendor minimization problem experiment, click on the file:
 ```
-Risk-Averse_Newsvendor.ipynb
+Risk_Averse_Newsvendor.ipynb
 ```
